@@ -98,7 +98,7 @@ class Url {
      * Retrieve a query string item from the request.
      *
      * @param  string $key
-     * @param  string|array|null $default
+     * @param  string $default
      * @return string|array|null
      */
     public function query($key = null, $default = null) {
