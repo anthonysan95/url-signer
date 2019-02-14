@@ -9,6 +9,7 @@
     ],
     "type": "library",
     "homepage": "https://github.com/anthonysan95/url-signer",
+    "license": "MIT",
     "authors": [
         {
             "name": "Anthony Santoro",
