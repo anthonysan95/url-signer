@@ -1,7 +1,14 @@
 {
     "name": "anthonysan95/url-signer",
     "description": "Simple URL Signer for securing your URLs",
+    "keywords": [
+        "security",
+        "encryption",
+        "sign",
+        "url"
+    ],
     "type": "library",
+    "homepage": "https://github.com/anthonysan95/url-signer",
     "authors": [
         {
             "name": "Anthony Santoro",
